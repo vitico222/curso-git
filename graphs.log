@@ -1,0 +1,91 @@
+commit 1bbe30d8ae9c7f5ba485116a02633b97c5b53418
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Mon Nov 6 09:48:57 2023 -0400
+
+    Agregando 2 parrafos
+
+commit dadb24a2a7759676ebdb6bac4934a4b4ed9e2679
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Mon Nov 6 09:22:54 2023 -0400
+
+    Agregando estaciones del año con fecha de inicio
+
+commit e41bb07a2cb582563d59dc81077bc439a7ab7cff
+Merge: 171fc74 96287dd
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 16:13:26 2023 -0400
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 96287dd8efe26854452926a3e64665cf69496f86
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 15:56:54 2023 -0400
+
+    Agregando index.js al index.html
+
+commit 171fc7479af74a4376dc37a7505e80991c339b87
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 15:50:29 2023 -0400
+
+    Agregando style.css al index.html
+
+commit fdd7cb9b2732671a6489463413c090e5158ec096
+Merge: abc175f 5e1c284
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 15:31:02 2023 -0400
+
+    Merge branch 'js'
+
+commit 5e1c284ec97ae3e33c256927c2bc1c1f99d8e509
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 14:47:03 2023 -0400
+
+    Creando index.js
+
+commit abc175f62e636a33adf5dd782e01eebdf2182326
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 14:38:52 2023 -0400
+
+    Creando style.css
+
+commit d402988679dc0306cd3e78a7f412167502cd9d50
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 14:30:33 2023 -0400
+
+    Creando index.html
+
+commit 145d809af811948634222908d9d18ba3cd0ff840
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 13:51:46 2023 -0400
+
+    Ignorando archivos .exe
+
+commit f4aeb4fa647afe919a0cd773d47070fc45a913be
+Author: Victor M. Sáa <139227176+vitico222@users.noreply.github.com>
+Date:   Fri Nov 3 12:23:50 2023 -0400
+
+    Create LICENSE
+
+commit 3a7308116e447d7c0df4d6b41af75467e8cc9603
+Author: Victor M. Sáa <139227176+vitico222@users.noreply.github.com>
+Date:   Fri Nov 3 12:23:07 2023 -0400
+
+    Create license.txt
+
+commit 9afc93478b3e8d9ecb336295ae6419fa24bc7f4a
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 11:01:48 2023 -0400
+
+    Agregando mas contenido al README
+
+commit 176e3429d53499fab4ccdfb8b9d47dad672c53fa
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 10:18:46 2023 -0400
+
+    Agregando contenido inicial al READ.me
+
+commit e684b19c86a453167593e2434b27bfd04b83903b
+Author: Victor Sáa <vitico222@gmail.com>
+Date:   Fri Nov 3 10:14:30 2023 -0400
+
+    Agreando contenido inicial
